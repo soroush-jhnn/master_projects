@@ -59,7 +59,7 @@ The project was completed as part of my **Master’s program** in [Data Science]
 
 ## Dataset
 The dataset used is publicly available on Kaggle:  
-[Kaggle Dataset – Development Indicators Metadata]([https://www.kaggle.com/datasets/your-username/development-indicators-metadata](https://github.com/soroush-jhnn/master_projects/blob/main/Data_visualization/WDISeries.csv))
+[Kaggle Dataset – Development Indicators Metadata](https://www.kaggle.com/datasets/vijayveersingh/world-banks-global-indicator-data)
 
 ---
 
